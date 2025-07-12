@@ -6,3 +6,9 @@ Avoid obstacles along the path and reach the **green landing pad** to advance to
 Press the **Esc** key to exit.
 
 There are currently 3 levels.
+
+
+## How to Play
+Download and extract the ZIP. Head over to the **Windows** folder. Run the **.exe** to play.
+
+Enjoy! 👾🎮
